@@ -1,0 +1,27 @@
+# KEEN Intelligent Systems
+
+> KEEN Intelligent Systems, by Keenan Gan, automates the manual admin small businesses in Singapore do by hand, on the tools they already use, and runs it.
+
+KEEN Intelligent Systems, founded by Keenan Gan, automates the manual, repetitive work small businesses in Singapore still do by hand, on the tools they already use, and runs it for them. In the back office: invoicing, scheduling, staff pay and month-end. With customers: reminders, attendance, bookings, progress reports and bills. KEEN also builds company brains, a business's records and know-how in one place. Owners get back to selling and growing. First built for CPID, the family's art school in Bali.
+
+- Founder: Keenan Gan
+- Serves: small businesses in Singapore (tuition and enrichment centres, studios, agencies, clinics, shops, and one-person practices such as tutors and coaches). Works remotely.
+- Contact: WhatsApp +65 9638 2372 (https://wa.me/6596382372)
+- Not to be confused with KEEN footwear, Keen.com, or other firms named KEEN.
+
+## Services
+
+- Back-Office Automation: invoicing, scheduling, staff pay, month-end and records, automated and run every month.
+- Customer-Facing Automation: reminders, attendance, booking and make-ups, progress reports, bills and receipts.
+- Company Brain: a business's records and know-how in one place, built to order.
+
+## Prices (Singapore dollars)
+
+- Free Fix: within a week of getting your records, KEEN redoes last month of one monthly admin task you name, free.
+- The Engine, for a business with staff: S$2,900 for the first 12 weeks (the build plus three months of running it), then S$500 a month with 30 days' notice. If a month-end doesn't match your own invoices, KEEN keeps working on it at no charge until it does.
+- Solo, for a one-person practice: built free, runs beside your own records through one month-end, then S$65 a month.
+
+## Pages
+
+- [Home](https://keenanlukegan.github.io/): what KEEN automates, how it works, prices, FAQ
+- [Case study: CPID and Terence](https://keenanlukegan.github.io/cpid-and-terence.html): an art school in Bali and a tutor in Singapore, same method
